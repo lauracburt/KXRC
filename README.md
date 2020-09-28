@@ -1,5 +1,10 @@
-# KYWK 
+# KXRC
 
-Last updated : 6/8 - Jason
+## New Repository for station KXRC
+
+by Laura Burt
+
+
+
 
 
