@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "KWYK"
+description: "KXRC"
 draft: false
 bg_image: "images/litmixerboard.jpg"
 ---

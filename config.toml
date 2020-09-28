@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
-title = "KWYK"
+title = "KXRC"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -82,14 +82,14 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/94.9-KWYK-new.png"
+logo = "images/105-KXRC-newsmall.jpg"
 # Meta data
 description = ""
 author = "Themefisher"
 # Contact Information
-phone = "505-325-1996"
-email = "info@kwykradio.com"
-location = "1515 W Main St, Farmington, NM 87401"
+phone = "970-259-1364"
+email = "codym@xrock105.com"
+location = "29423 Highway 160 East Durango, CO 81301"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -111,16 +111,16 @@ link = "contact"
 # google map
 [params.gmap]
 enable = true
-gmap_api = "https://www.google.com/maps/@36.7312048,-108.2320123,17z"
-map_latitude = "36.7312048"
-map_longitude = "-108.2320123,17z"
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 
   
 ############################# social site ########################
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.facebook.com/KwykRadio"
+link = "https://www.facebook.com/XRock105.3fm"
 
 #[[params.social]]
 #icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -142,4 +142,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright KWYK 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
+copyright = "Copyright KXRC 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"

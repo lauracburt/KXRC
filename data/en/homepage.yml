@@ -2,19 +2,19 @@
 banner:
   enable : true
   bg_image : "images/KWYKbg.jpg"
-  title : "94.9 FM KWYK"
-  content : "Music from the 90s and now"
+  title : "Xrock 105.3 FM"
+  content : "Rock for the ages!"
   button:
     enable : true
     label : "Listen Now"
-    link : "https://rdo.to/KWYKFM"
+    link : "https://streamdb5web.securenetsystems.net/v5/index.cfm?stationCallSign=KXRC"
     target : "_blank"
 
 ############################# About #################################
 about:
   enable : true
   title : "About Us"
-  description : "KWYK 94.9 FM has been a part of the 4-corners community for over 60 years, starting in 1957. We pride ourselves in being the best Adult Contemporary Music station in the region, playing the hottest hits from the 90’s and NOW!"
+  description : "Durango's locally owned and operated station playing the best rock from the last four decades"
   content : "Thanks for letting us be a part of your day!"
   image : "images/relaxradio.jpg"
 
@@ -28,7 +28,7 @@ portfolio:
   button:
     enable : true
     label : "FCC Public File"
-    link : "https://publicfiles.fcc.gov/fm-profile/kwyk-fm"
+    link : "https://publicfiles.fcc.gov/fm-profile/kxrc"
 
 
 ############################# Service ############################
