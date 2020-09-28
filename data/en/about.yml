@@ -1,0 +1,93 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "images/radiostationstudio.jpg"
+  title : "Get to know us"
+  content : "KWYK 94.9 FM was founded in 1957 and has been a part of the 4-corners communinity for over 60 years. We are an Adult Contemporary Music station filling your lives with the hottest hits of the 90’s and NOW!"
+
+  button:
+    enable : false
+    label : ""
+    link : "#"
+################################ feature #####################################
+features:
+  enable : false
+  title : "We are indepented Design & Development Agency"
+  feature_item:
+    # feature item loop
+    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "IOS App Development"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "App Secutity"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Games Development"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Animation and Editing"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "UI/UX Design"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Branding"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    
+
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : false
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : false
+  tabs:
+    # tab item loop
+    - name : "Vision"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+    # tab item loop
+    - name : "Mission"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+    # tab item loop
+    - name : "Approach"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

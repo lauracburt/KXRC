@@ -1,0 +1,98 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/KWYKbg.jpg"
+  title : "94.9 FM KWYK"
+  content : "Music from the 90s and now"
+  button:
+    enable : true
+    label : "Listen Now"
+    link : "https://rdo.to/KWYKFM"
+    target : "_blank"
+
+############################# About #################################
+about:
+  enable : true
+  title : "About Us"
+  description : "KWYK 94.9 FM has been a part of the 4-corners community for over 60 years, starting in 1957. We pride ourselves in being the best Adult Contemporary Music station in the region, playing the hottest hits from the 90’s and NOW!"
+  content : "Thanks for letting us be a part of your day!"
+  image : "images/relaxradio.jpg"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/vertgreyantenna.jpg"
+  title : ""
+  content : ""
+  button:
+    enable : true
+    label : "FCC Public File"
+    link : "https://publicfiles.fcc.gov/fm-profile/kwyk-fm"
+
+
+############################# Service ############################
+service:
+  enable : false
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/radiostationstudio.jpg"
+  title : "Drop us a note"
+  content : "We'd love to hear from you"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : false
+  title : "Fun Facts About Us"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "this is what i changed"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Article Written"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Combined Projects"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."

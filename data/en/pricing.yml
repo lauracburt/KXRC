@@ -1,0 +1,32 @@
+################################ pricing ################################
+pricing:
+  enable : true
+  pricing_table:
+    # pricing table loop
+    - name : "Morning Show"
+      price: "Jamie Osborne"
+      content : "Making your mornings brighter."
+
+      link : "#"
+      services:
+  
+        
+    # pricing table loop
+    - name : "Afternoon Show"
+      price: "Cody         Mellow"
+      content : "Making your afternoons fly by."
+      link : "#"
+      services:
+        
+    # pricing table loop
+    - name : "Evening Show"
+      price: "Continuous Hits"
+      content : "Keeping your nights rocking."
+      
+      link : "#"
+      services:
+        
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
