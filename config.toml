@@ -82,13 +82,13 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/105-KXRC-newsmall.jpg"
+logo = "images/105KXRClogo.jpg"
 # Meta data
 description = ""
 author = "Themefisher"
 # Contact Information
 phone = "970-259-1364"
-email = "codym@xrock105.com"
+email = "info@xrock105.com"
 location = "29423 Highway 160 East Durango, CO 81301"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io

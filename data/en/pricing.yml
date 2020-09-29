@@ -3,25 +3,25 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Morning Show"
-      price: "Jamie Osborne"
-      content : "Making your mornings brighter."
+    - name : "Morning Disaster"
+      price: "Billy Cole"
+      content : "Waking you up each day."
 
       link : "#"
       services:
   
         
     # pricing table loop
-    - name : "Afternoon Show"
-      price: "Cody         Mellow"
-      content : "Making your afternoons fly by."
+    - name : "Midday Mood Swing"
+      price: "Rocking Hits"
+      content : "Getting you through the hump."
       link : "#"
       services:
         
     # pricing table loop
-    - name : "Evening Show"
-      price: "Continuous Hits"
-      content : "Keeping your nights rocking."
+    - name : "Afternoon Rock Block"
+      price: "Jamie Osborn"
+      content : "Keeping your day rocking."
       
       link : "#"
       services:

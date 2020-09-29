@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/KWYKbg.jpg"
+  bg_image : "images/KXRCbgvinyl.jpg"
   title : "Xrock 105.3 FM"
   content : "Rock for the ages!"
   button:
@@ -14,15 +14,15 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "Durango's locally owned and operated station playing the best rock from the last four decades"
-  content : "Thanks for letting us be a part of your day!"
-  image : "images/relaxradio.jpg"
+  description : "X Rock KXRC 105.3 FM is Rock for the Ages! A Mix of your favorite classic rock with popular current hits and the best songs on the B side. As a leading provider of FM Radio, Rocking Durango, Colorado and the surrounding Four Corners area XROCK105.com takes pride in offering the best Rock ‘N Roll on the air"
+  content : ""
+  image : "images/KXRCbg.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/vertgreyantenna.jpg"
+  bg_image : "images/rockandroll.jpg"
   title : ""
   content : ""
   button:
