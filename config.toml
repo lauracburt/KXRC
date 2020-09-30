@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
+baseURL = "https://purple-ocean-0da662010.azurestaticapps.net"
 title = "KXRC"
 theme = "airspace-hugo"
 # post pagination
