@@ -2,7 +2,7 @@
 
 ## New Repository for station KXRC
 
-by Jason
+by Jason Hand
 
 
 
